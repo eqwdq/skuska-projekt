@@ -1,0 +1,117 @@
+{
+    "cars": [
+    {
+        "brand": "Toyota",
+        "model": "AYGO 1.0 VVTI",
+        "image": "toyota.jpg",
+        "price": "2 490",
+        "id": "1"
+    },
+    {
+        "brand": "Skoda",
+        "model": "Superb 2.0 TDI",
+        "image": "skoda1.jpg",
+        "price": "13 500",
+        "id": "2"
+    },
+    {
+        "brand": "Skoda",
+        "model": "Superb 2.0 TDI",
+        "image": "skoda2.jpg",
+        "price": "17 990",
+        "id": "3"
+    },
+    {
+        "brand": "Skoda",
+        "model": "Octavia Combi 2.0 TDI",
+        "image": "skoda3.jpg",
+        "price": "13 990",
+        "id": "4"
+    },
+    {
+        "brand": "Renault",
+        "model": "Espace dCi 160",
+        "image": "renault.jpg",
+        "price": "16 999",
+        "id": "5"
+    },
+    {
+        "brand": "Seat",
+        "model": "Tarraco 2.0 TDI 190",
+        "image": "seat.jpg",
+        "price": "23 900",
+        "id": "6"
+    },
+    {
+        "brand": "Volvo",
+        "model": "XC40 D3 AWD",
+        "image": "volvo.jpg",
+        "price": "25 900",
+        "id": "7"
+    },
+    {
+        "brand": "Vw",
+        "model": "Sharan 2.0 TDI 110",
+        "image": "vw.jpg",
+        "price": "25 990",
+        "id": "8"
+    },
+
+    {
+        "brand": "Suzuki",
+        "model": "GSR 600",
+        "image": "suzuki.jpg",
+        "price": "2 400",
+        "id": "9"
+    },
+    {
+        "brand": "Harley Davidson",
+        "model": "Fat Bob",
+        "image": "harley.jpg",
+        "price": "13 500",
+        "id": "10"
+    },
+    {
+        "brand": "Maxon",
+        "model": "Ardour 125ccm",
+        "image": "maxon.jpg",
+        "price": "1 299",
+        "id": "11"
+    },
+    {
+        "brand": "BMW",
+        "model": "R 1200 R",
+        "image": "bmw.jpg",
+        "price": "6 990",
+        "id": "12"
+    },
+    {
+        "brand": "HONDA",
+        "model": "CBR 1100 XX BLACKBIRD",
+        "image": "honda.jpg",
+        "price": "3 190",
+        "id": "13"
+    },
+    {
+        "brand": "Royal Enfield",
+        "model": "Interceptor 650",
+        "image": "royal_enfield.jpg",
+        "price": "7 111",
+        "id": "14"
+    },
+    {
+        "brand": "Jawa",
+        "model": "350",
+        "image": "jawa.jpg",
+        "price": "Dohodou",
+        "id": "15"
+    },
+    {
+        "brand": "Yamaha",
+        "model": "T MAX 530",
+        "image": "yamaha_v-max.jpg",
+        "price": "8 999",
+        "id": "16"
+    }
+]
+}
